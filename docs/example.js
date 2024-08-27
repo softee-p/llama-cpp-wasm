@@ -43,8 +43,8 @@ const modelOptions = [
     url: "https://huggingface.co/SanctumAI/Phi-3-mini-4k-instruct-GGUF/resolve/main/phi-3-mini-4k-instruct.Q3_K_M.gguf"
   },
   {
-    name: "google/flan-t5-small Q3_K_M (88.3 MB)",
-    url: "http://localhost:5173/flan-t5-large-grammar-synthesis-v6-Q4_K_M.gguf"
+    name: "google/flan-t5-small Q4_K_M (94.5 MB)",
+    url: "https://huggingface.co/Felladrin/gguf-flan-t5-small/resolve/main/flan-t5-small.Q4_K_M.gguf"
   }
 ];
 
